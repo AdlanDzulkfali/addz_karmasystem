@@ -14,3 +14,8 @@ karma system for redm
 
 ![unknown](https://user-images.githubusercontent.com/6275693/130782994-27cf322f-a136-4d0d-8421-bac4345adb3a.png)
 
+# DEPENDENCIES
+
+1. VORP or REDEMRP Framework
+2. redemrp_notifications(https://github.com/Ktos93/redemrp_notification) if you are using redemrp
+
