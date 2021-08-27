@@ -1,6 +1,7 @@
+local VorpCore = {}
 
 if (Config.Framework == 'vorp') then
-    local VorpCore = {}
+
 
     TriggerEvent("getCore",function(core)
         VorpCore = core
